@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GroceryEmart.Tests
+build_property.ProjectDir = D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.Tests\

@@ -1,0 +1,59 @@
+D:\Project-SQLDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.deps.json
+D:\Project-SQLDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.dll
+D:\Project-SQLDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.pdb
+D:\Project-SQLDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.dll
+D:\Project-SQLDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+D:\Project-SQLDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.pdb
+D:\Project-SQLDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+D:\Project-SQLDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.csproj.AssemblyReference.cache
+D:\Project-SQLDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-SQLDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.AssemblyInfoInputs.cache
+D:\Project-SQLDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.AssemblyInfo.cs
+D:\Project-SQLDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Project-SQLDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.csproj.CopyComplete
+D:\Project-SQLDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.dll
+D:\Project-SQLDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.pdb
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.deps.json
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.dll
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.pdb
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.dll
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.pdb
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.csproj.AssemblyReference.cache
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.AssemblyInfoInputs.cache
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.AssemblyInfo.cs
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.csproj.CopyComplete
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.dll
+D:\IIHT DATA\Groceryemart_with_code\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.pdb
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.csproj.AssemblyReference.cache
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.AssemblyInfoInputs.cache
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.AssemblyInfo.cs
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.dll
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.pdb
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.deps.json
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.dll
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.pdb
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.dll
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.pdb
+D:\IIHT DATA\Groceryemart_with_code_MongoDb\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.deps.json
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.dll
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.pdb
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.dll
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.pdb
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.csproj.AssemblyReference.cache
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.AssemblyInfoInputs.cache
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.AssemblyInfo.cs
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.csproj.CopyComplete
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.dll
+D:\IIHT DATA\Groceryemart_Clean_Code_MongoDb2.2\Groceryemart.BusinessLayer\obj\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.pdb
